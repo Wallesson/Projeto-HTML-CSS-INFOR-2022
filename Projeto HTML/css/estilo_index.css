@@ -1,0 +1,90 @@
+
+
+/*
+p{
+    text-align:justify; 
+
+
+    line-height: 30px;	
+
+    letter-spacing: 1px;
+
+    word-spacing: 5px;	
+
+    text-indent: 30px;	
+
+
+}
+*/
+/*
+
+body{
+    font-family:'Courier New', Courier, sans-serif; (serif, sans-serif, monospace)
+    font-style:normal; estilo da fonte
+    background-color: rgb(242, 164, 164); cor de plano de fundo
+    background-image:	url(../img/metallica_logo.png); imagens de plano de fundo
+   
+
+    /*Bordas
+    border-color: ;
+    border-color: red;
+    border-style:solid;
+    border-width: 50px;
+
+
+}
+
+
+
+
+
+.d_inline{
+    display: inline;
+    background-color: red;
+    margin: 5px;
+}
+
+.d_block{
+    display: block;
+    background-color: rgb(68, 0, 255);
+    margin: 5px;
+}
+
+.d_i_block{
+    display: inline-block;
+    background-color: rgb(149, 255, 0);
+    margin: 5px;
+}
+
+.texto{
+    background-color: blue;
+}
+#id{
+    background-color: brown;
+}
+*/
+
+#bloco1{
+    background-color: red;
+    float: right;
+}
+
+#bloco2{
+    background-color: blue;
+    float:left;
+}
+
+#bloco3{
+    background-color: yellow;
+    float:right;
+    
+}
+
+#bloco1, #bloco2, #bloco3{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+  
+   
+}
+
